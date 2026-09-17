@@ -112,6 +112,8 @@ h2 { margin: 0 0 28px; color: var(--navy); font: 400 clamp(2.3rem, 5vw, 4.7rem)/
 .product-link:hover, .product-link:focus-visible { color: var(--navy); background: transparent; }
 .profile-copy { max-width: 820px; }
 .profile-copy p { margin: 0 0 24px; color: var(--muted); font-size: 1.2rem; line-height: 1.75; }
+.philosophy { margin: 0 0 34px; padding: 0 0 0 28px; border-left: 3px solid var(--amber); }
+.philosophy p { margin: 0; color: var(--navy); font: 400 clamp(1.8rem, 4vw, 3.4rem)/1.18 Georgia, serif; letter-spacing: -0.025em; }
 .contact { min-height: 430px; align-items: start; }
 .email { display: inline-block; color: var(--blue); font-size: clamp(1.15rem, 3vw, 1.8rem); text-underline-offset: 6px; }
 footer { min-height: 100px; display: flex; justify-content: space-between; align-items: center; color: var(--muted); border-top: 1px solid var(--line); font-size: 0.85rem; }
